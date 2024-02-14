@@ -1,53 +1,114 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9877, 40.7577]
-      },
-      "properties": {
-        "name": "Times Square",
-        "category": "Landmark"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.006, 40.7128]
-      },
-      "properties": {
-        "name": "Statue of Liberty",
-        "category": "Landmark"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9712, 40.7851]
-      },
-      "properties": {
-        "name": "Central Park",
-        "category": "Park"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [-73.9877, 40.7577],
-          [-74.006, 40.7128],
-          [-73.9712, 40.7851]
-        ]
-      },
-      "properties": {
-        "name": "Path",
-        "category": "Route"
-      }
-    }
+  "version": 0.6,
+  "generator": "Overpass API 0.7.61.5 4133829e",
+  "osm3s": {
+    "timestamp_osm_base": "2024-02-14T23:38:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 806387017,
+  "nodes": [
+    4396820539,
+    7540906951,
+    7540906952,
+    7540906953,
+    7540906954,
+    7540906955,
+    7540906956,
+    7540906957,
+    7540906958,
+    7540906959,
+    7540906960,
+    7540906961,
+    7540906962
+  ],
+  "tags": {
+    "access": "private",
+    "highway": "service",
+    "service": "driveway"
+  }
+},
+{
+  "type": "node",
+  "id": 4396820539,
+  "lat": 33.3373648,
+  "lon": -83.8240070
+},
+{
+  "type": "node",
+  "id": 7540906951,
+  "lat": 33.3370618,
+  "lon": -83.8237000
+},
+{
+  "type": "node",
+  "id": 7540906952,
+  "lat": 33.3366978,
+  "lon": -83.8235496
+},
+{
+  "type": "node",
+  "id": 7540906953,
+  "lat": 33.3364193,
+  "lon": -83.8233775
+},
+{
+  "type": "node",
+  "id": 7540906954,
+  "lat": 33.3361117,
+  "lon": -83.8231335
+},
+{
+  "type": "node",
+  "id": 7540906955,
+  "lat": 33.3359133,
+  "lon": -83.8229375
+},
+{
+  "type": "node",
+  "id": 7540906956,
+  "lat": 33.3357404,
+  "lon": -83.8226913
+},
+{
+  "type": "node",
+  "id": 7540906957,
+  "lat": 33.3355784,
+  "lon": -83.8223993
+},
+{
+  "type": "node",
+  "id": 7540906958,
+  "lat": 33.3354637,
+  "lon": -83.8221836
+},
+{
+  "type": "node",
+  "id": 7540906959,
+  "lat": 33.3354346,
+  "lon": -83.8220399
+},
+{
+  "type": "node",
+  "id": 7540906960,
+  "lat": 33.3354455,
+  "lon": -83.8219179
+},
+{
+  "type": "node",
+  "id": 7540906961,
+  "lat": 33.3355147,
+  "lon": -83.8216390
+},
+{
+  "type": "node",
+  "id": 7540906962,
+  "lat": 33.3355329,
+  "lon": -83.8214647
+}
+
   ]
 }
