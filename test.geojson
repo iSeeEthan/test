@@ -1,1 +1,1712 @@
-{"type": "FeatureCollection","features": [{"type": "Feature", "geometry": {"type":"Point","coordinates":[-86.8291907,35.9154417]}, "properties": {"osm_id": 12025611505, "osm_type": "nodes", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": null, "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": "crossing", "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Point","coordinates":[-86.8292278,35.915309]}, "properties": {"osm_id": 3536930403, "osm_type": "nodes", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": null, "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": "crossing", "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Point","coordinates":[-86.8289632,35.9152581]}, "properties": {"osm_id": 2542439916, "osm_type": "nodes", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": null, "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": "traffic_signals", "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Point","coordinates":[-86.8287775,35.9152698]}, "properties": {"osm_id": 3536930401, "osm_type": "nodes", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": null, "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": "crossing", "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Point","coordinates":[-86.828912,35.9153825]}, "properties": {"osm_id": 12025611511, "osm_type": "nodes", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": null, "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": "traffic_signals", "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Point","coordinates":[-86.8289303,35.9155022]}, "properties": {"osm_id": 3536930405, "osm_type": "nodes", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": null, "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": "crossing", "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Point","coordinates":[-86.8290252,35.915102]}, "properties": {"osm_id": 3536930399, "osm_type": "nodes", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": null, "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": "crossing", "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Point","coordinates":[-86.8286217,35.9159223]}, "properties": {"osm_id": 7249450400, "osm_type": "nodes", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": null, "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": "crossing", "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Point","coordinates":[-86.8285606,35.9160863]}, "properties": {"osm_id": 7249450397, "osm_type": "nodes", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": null, "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": "crossing", "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Point","coordinates":[-86.8284117,35.9164898]}, "properties": {"osm_id": 3506239330, "osm_type": "nodes", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": null, "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": "crossing", "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Point","coordinates":[-86.8291113,35.9152881]}, "properties": {"osm_id": 2542428741, "osm_type": "nodes", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": null, "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": "traffic_signals", "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Point","coordinates":[-86.8290541,35.9154163]}, "properties": {"osm_id": 2542439915, "osm_type": "nodes", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": null, "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": "traffic_signals", "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Point","coordinates":[-86.8291817,35.9151471]}, "properties": {"osm_id": 3536930400, "osm_type": "nodes", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": null, "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": "crossing", "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8287415,35.9154196],[-86.8286171,35.9153871]]}, "properties": {"osm_id": 343804783, "osm_type": "ways_line", "amenity": null, "highway": "footway", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8288801,35.9150623],[-86.8290252,35.915102],[-86.8291817,35.9151471],[-86.8292776,35.9151728],[-86.8293332,35.9151806]]}, "properties": {"osm_id": 343804780, "osm_type": "ways_line", "amenity": null, "highway": "footway", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8296811,35.9144563],[-86.8295826,35.9145938],[-86.8294531,35.9147977],[-86.8293546,35.9149535],[-86.8293213,35.9150198],[-86.8293083,35.9150545],[-86.8293083,35.9151083],[-86.8293154,35.9151535],[-86.8293332,35.9151806],[-86.8293415,35.9151843],[-86.8293748,35.915217],[-86.8294116,35.9152266],[-86.8295624,35.9152545],[-86.8299436,35.9153247],[-86.8300214,35.9153387],[-86.8303223,35.915393],[-86.8303956,35.9154077],[-86.8305278,35.9154343],[-86.8307985,35.9154834],[-86.8309113,35.9155016],[-86.8309992,35.9155084],[-86.8310835,35.9155122],[-86.8311746,35.9155201]]}, "properties": {"osm_id": 343804767, "osm_type": "ways_line", "amenity": null, "highway": "footway", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8253449,35.9108411],[-86.8252711,35.9109432],[-86.8252363,35.911054],[-86.8252698,35.9113049],[-86.8252744,35.9113368],[-86.8253127,35.9116004],[-86.8253722,35.911995],[-86.8253957,35.9121509],[-86.8253985,35.9121695],[-86.8255031,35.9127159],[-86.8255443,35.9128322],[-86.825605,35.9129324],[-86.8257008,35.9130421],[-86.8258047,35.9131102],[-86.8259413,35.9131574],[-86.8260991,35.9131796],[-86.8263854,35.9132148],[-86.8266407,35.9132431],[-86.8267212,35.913252],[-86.8272734,35.9133522],[-86.8274435,35.9133951],[-86.8276143,35.9134383],[-86.8279342,35.9135366],[-86.8281992,35.9136321],[-86.8287281,35.9138609],[-86.8287955,35.9137615],[-86.8289768,35.9134941],[-86.8290527,35.9134265],[-86.8291052,35.9133797],[-86.8292593,35.9133012],[-86.8293936,35.913252],[-86.8295605,35.9132378],[-86.8296703,35.9132568]]}, "properties": {"osm_id": 19755612, "osm_type": "ways_line", "amenity": null, "highway": "unclassified", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": "Riverside Drive", "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8309223,35.9138353],[-86.8308344,35.9137834],[-86.8304372,35.9135768],[-86.8303568,35.9135325]]}, "properties": {"osm_id": 1275208030, "osm_type": "ways_line", "amenity": null, "highway": "unclassified", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": "Center Point Place", "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "no", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8246271,35.9143094],[-86.825196,35.914448],[-86.8258454,35.9145923],[-86.826241,35.9146801],[-86.8264484,35.9147262],[-86.8267316,35.9147891],[-86.8268391,35.914813],[-86.8269423,35.9148359],[-86.8271356,35.9148789],[-86.8272717,35.9149091],[-86.8275252,35.9149696],[-86.8277267,35.9150153]]}, "properties": {"osm_id": 164683256, "osm_type": "ways_line", "amenity": null, "highway": "primary", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": "Murfreesboro Road", "parking": null, "surface": "asphalt", "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "no", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8299174,35.9155797],[-86.8298965,35.9156541],[-86.8298773,35.9157156],[-86.8298175,35.9159455]]}, "properties": {"osm_id": 368062482, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8303603,35.9155096],[-86.8302412,35.9154885],[-86.8299802,35.9154442]]}, "properties": {"osm_id": 368062484, "osm_type": "ways_line", "amenity": null, "highway": "primary", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": "Murfreesboro Road", "parking": null, "surface": "asphalt", "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8288205,35.9150811],[-86.8287775,35.9152698],[-86.8287415,35.9154196]]}, "properties": {"osm_id": 343804779, "osm_type": "ways_line", "amenity": null, "highway": "footway", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8289632,35.9152581],[-86.8287775,35.9152698]]}, "properties": {"osm_id": 1298086406, "osm_type": "ways_line", "amenity": null, "highway": "primary", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": "Murfreesboro Road", "parking": null, "surface": "asphalt", "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8289632,35.9152581],[-86.828912,35.9153825]]}, "properties": {"osm_id": 19671195, "osm_type": "ways_line", "amenity": null, "highway": "secondary", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": "Royal Oaks Boulevard", "parking": null, "surface": "asphalt", "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8290541,35.9154163],[-86.8291907,35.9154417],[-86.8295019,35.9155069],[-86.8299174,35.9155797],[-86.8303223,35.9156425],[-86.8311281,35.915714],[-86.8312509,35.9157306],[-86.8314362,35.915723]]}, "properties": {"osm_id": 1298095425, "osm_type": "ways_line", "amenity": null, "highway": "primary", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": "Murfreesboro Road", "parking": null, "surface": "asphalt", "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8299802,35.9154442],[-86.8292278,35.915309],[-86.8291113,35.9152881]]}, "properties": {"osm_id": 1032836336, "osm_type": "ways_line", "amenity": null, "highway": "primary", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": "Murfreesboro Road", "parking": null, "surface": "asphalt", "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8292557,35.9143612],[-86.8291656,35.9145027],[-86.8290293,35.9147464],[-86.8289596,35.9148923],[-86.8288801,35.9150623],[-86.8288205,35.9150811],[-86.8287927,35.9150915],[-86.8287394,35.9150915]]}, "properties": {"osm_id": 343804773, "osm_type": "ways_line", "amenity": null, "highway": "footway", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.828912,35.9153825],[-86.8289303,35.9155022]]}, "properties": {"osm_id": 1298095424, "osm_type": "ways_line", "amenity": null, "highway": "secondary", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": "Royal Oaks Boulevard", "parking": null, "surface": "asphalt", "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8277945,35.9172359],[-86.827829,35.9171302],[-86.8280343,35.9171804],[-86.8282618,35.9165696],[-86.8277033,35.9164383],[-86.8274825,35.917052],[-86.827446,35.9171533]]}, "properties": {"osm_id": 711332354, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8273138,35.9171234],[-86.8274218,35.9167716],[-86.8271927,35.9167255],[-86.8270837,35.9170804]]}, "properties": {"osm_id": 944023855, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8267729,35.9170222],[-86.8269575,35.9163838],[-86.8264568,35.9162914],[-86.8262724,35.9169335]]}, "properties": {"osm_id": 711332357, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8274528,35.9161569],[-86.827746,35.9153457]]}, "properties": {"osm_id": 368062497, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8280595,35.9154286],[-86.827746,35.9153457],[-86.8276105,35.9153098]]}, "properties": {"osm_id": 368062499, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8275252,35.9149696],[-86.827412,35.9152787],[-86.8275991,35.9153356]]}, "properties": {"osm_id": 368062494, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8271363,35.9155779],[-86.8272345,35.9155999],[-86.8272679,35.9155915],[-86.8272919,35.9155743],[-86.827412,35.9152787],[-86.8271379,35.9152188]]}, "properties": {"osm_id": 368062496, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8269423,35.9148359],[-86.8268463,35.9150541],[-86.8268332,35.9150859],[-86.8266922,35.9154267],[-86.8266969,35.9154777],[-86.8267412,35.9155156],[-86.8268463,35.9155364],[-86.8269187,35.9155193],[-86.8269444,35.9154891],[-86.8270284,35.9152092],[-86.8269981,35.9151392],[-86.8269607,35.9151165],[-86.8268332,35.9150859]]}, "properties": {"osm_id": 368062500, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.827407,35.9158353],[-86.8264571,35.915631],[-86.8263441,35.9156323],[-86.826287,35.9156733],[-86.8262364,35.9158503],[-86.8262364,35.9159016],[-86.8262712,35.9159478],[-86.8272727,35.9161738],[-86.8273512,35.9161915],[-86.8274082,35.9161889],[-86.8274528,35.9161569]]}, "properties": {"osm_id": 368062495, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8273661,35.9144277],[-86.8272827,35.9144968],[-86.8271356,35.9148789]]}, "properties": {"osm_id": 345799494, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8272717,35.9149091],[-86.8273254,35.9146779],[-86.82736,35.9146005],[-86.8273904,35.9145363],[-86.8273661,35.9144277]]}, "properties": {"osm_id": 345799496, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8279719,35.9146773],[-86.8277224,35.9146229]]}, "properties": {"osm_id": 345799487, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8282586,35.914395],[-86.828076,35.9143494],[-86.8279074,35.9143072]]}, "properties": {"osm_id": 345799482, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8275093,35.9140341],[-86.8273661,35.9144277],[-86.8276649,35.9144985]]}, "properties": {"osm_id": 345799492, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.828076,35.9143494],[-86.8281468,35.9141667]]}, "properties": {"osm_id": 345799499, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8287281,35.9138609],[-86.8286196,35.9139462],[-86.8286118,35.9139667],[-86.8285075,35.9142412],[-86.8281468,35.9141667],[-86.8276202,35.9140578],[-86.8275093,35.9140341],[-86.8271158,35.91395],[-86.8270131,35.9139159],[-86.8269617,35.9138706],[-86.8269757,35.9136739],[-86.8270201,35.9135623],[-86.8271368,35.9135377],[-86.8284304,35.9138895],[-86.8286118,35.9139667]]}, "properties": {"osm_id": 345799489, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8290909,35.9132843],[-86.8290196,35.9133299],[-86.8289772,35.9133686],[-86.8289189,35.9134218],[-86.8288523,35.9135209],[-86.8287425,35.913671],[-86.8286904,35.9137027],[-86.8286525,35.9137017],[-86.8285823,35.9136798],[-86.8284293,35.9136127],[-86.8282367,35.9135296],[-86.8279884,35.9134436],[-86.827785,35.9133751],[-86.827533,35.9133023],[-86.8274668,35.9132859],[-86.8273206,35.9132498],[-86.8269013,35.9131594],[-86.8267141,35.913123]]}, "properties": {"osm_id": 343804775, "osm_type": "ways_line", "amenity": null, "highway": "footway", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8311017,35.9157944],[-86.8309786,35.9157785],[-86.83079,35.9157586],[-86.8305325,35.9157296],[-86.8303002,35.9157181],[-86.830006,35.915674],[-86.8298965,35.9156541],[-86.8298095,35.9156382],[-86.8294758,35.9155798],[-86.8293973,35.9155661]]}, "properties": {"osm_id": 364235425, "osm_type": "ways_line", "amenity": null, "highway": "footway", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8290527,35.9134265],[-86.8291233,35.9134777],[-86.8291945,35.9135292],[-86.8291976,35.9135791],[-86.8293424,35.9136964],[-86.8295027,35.9137863],[-86.8297337,35.9135355],[-86.8297322,35.9135018],[-86.8297045,35.9134444],[-86.8296629,35.9133957],[-86.8296151,35.9133758],[-86.8295473,35.9133596],[-86.8294749,35.9133608],[-86.8293856,35.9133808],[-86.8293039,35.9134681],[-86.8291945,35.9135292]]}, "properties": {"osm_id": 345630219, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8295027,35.9137863],[-86.8293902,35.9139135],[-86.8290617,35.9137534],[-86.829042,35.9137438],[-86.8291976,35.9135791]]}, "properties": {"osm_id": 345630220, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8290617,35.9137534],[-86.8289837,35.9138678],[-86.8289714,35.9139254],[-86.8289827,35.9139522],[-86.8290642,35.914009],[-86.8292324,35.914104]]}, "properties": {"osm_id": 913048636, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8299673,35.9135102],[-86.829961,35.9135438],[-86.829934,35.9135795],[-86.8298747,35.9136341],[-86.8297802,35.9137311],[-86.8296929,35.9138214],[-86.8295966,35.9139286],[-86.8295129,35.9140262],[-86.8294652,35.9140977],[-86.8294265,35.9141348],[-86.8293923,35.9141552],[-86.8293473,35.914156]]}, "properties": {"osm_id": 343804770, "osm_type": "ways_line", "amenity": null, "highway": "footway", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8299673,35.9135102],[-86.8299637,35.9134732],[-86.8299511,35.9134396],[-86.8299259,35.9134003],[-86.82989,35.9133799],[-86.8298135,35.9133507],[-86.8296668,35.9133157],[-86.8295264,35.9133048],[-86.8294148,35.9133194],[-86.8293176,35.9133522],[-86.8292015,35.9134076],[-86.8291233,35.9134777],[-86.8290674,35.9135278],[-86.8290386,35.9135592],[-86.8289684,35.9136648],[-86.8288974,35.9137691],[-86.8288821,35.913796],[-86.8287955,35.9137615],[-86.8287138,35.913729],[-86.8286931,35.91371],[-86.8286904,35.9137027]]}, "properties": {"osm_id": 343804774, "osm_type": "ways_line", "amenity": null, "highway": "footway", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8325761,35.9136029],[-86.832421,35.9135478],[-86.8323039,35.9135166],[-86.832173,35.9135003],[-86.8317555,35.9134542],[-86.8315583,35.913428],[-86.8314987,35.9134829],[-86.8313811,35.9135914],[-86.8312378,35.9137151],[-86.8310893,35.9138432],[-86.8310187,35.9139041]]}, "properties": {"osm_id": 345407279, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8305632,35.9135303],[-86.8305848,35.9135561],[-86.8306762,35.9136061],[-86.8307974,35.9136667],[-86.8309007,35.9137215],[-86.8309517,35.9137504],[-86.8309814,35.9137696],[-86.8310123,35.9137783],[-86.8310893,35.9138432],[-86.8311571,35.9139004],[-86.8312842,35.9140437],[-86.83134,35.914112],[-86.8313899,35.9141899],[-86.8314303,35.914263],[-86.8314861,35.9144091],[-86.8315062,35.9145149],[-86.8315217,35.9146323],[-86.8315181,35.9147505],[-86.8314991,35.9148986]]}, "properties": {"osm_id": 343804763, "osm_type": "ways_line", "amenity": null, "highway": "footway", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8310187,35.9139041],[-86.83096,35.9139601],[-86.8308745,35.9140416],[-86.8304639,35.9138062],[-86.8300574,35.9142169],[-86.8302494,35.914319],[-86.8302779,35.9143676],[-86.8303989,35.9144334],[-86.8304421,35.9144434],[-86.8304832,35.9144507],[-86.8305295,35.914445],[-86.8305696,35.9144342],[-86.8306347,35.91437],[-86.8308745,35.9141206],[-86.8308745,35.9140416]]}, "properties": {"osm_id": 345628650, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8297773,35.9143111],[-86.8297634,35.914332],[-86.8297068,35.9144175],[-86.8296811,35.9144563]]}, "properties": {"osm_id": 343804766, "osm_type": "ways_line", "amenity": null, "highway": "footway", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8300574,35.9142169],[-86.8299259,35.9143842],[-86.8298964,35.9144206]]}, "properties": {"osm_id": 345628667, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8298478,35.9144148],[-86.8298092,35.9143912],[-86.8297695,35.9143524],[-86.8297634,35.914332],[-86.829752,35.9142938],[-86.8297458,35.9141864]]}, "properties": {"osm_id": 345630234, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8295858,35.9141563],[-86.8294906,35.9142744]]}, "properties": {"osm_id": 1078499011, "osm_type": "ways_line", "amenity": null, "highway": "secondary", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": "South Royal Oaks Boulevard", "parking": null, "surface": "asphalt", "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8295858,35.9141563],[-86.8293975,35.9141959],[-86.8293646,35.9141941],[-86.8293197,35.9141916],[-86.8292607,35.9141818]]}, "properties": {"osm_id": 345630226, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8292018,35.9141409],[-86.8292607,35.9141818]]}, "properties": {"osm_id": 345630224, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "no", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8293923,35.9141552],[-86.8293646,35.9141941],[-86.8293129,35.9142666],[-86.8292808,35.9143117],[-86.8292557,35.9143612]]}, "properties": {"osm_id": 343804771, "osm_type": "ways_line", "amenity": null, "highway": "footway", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8292808,35.9143117],[-86.8292628,35.9142845],[-86.8292353,35.9142591]]}, "properties": {"osm_id": 343804772, "osm_type": "ways_line", "amenity": null, "highway": "footway", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8292607,35.9141818],[-86.8292902,35.9142252],[-86.8293129,35.9142666],[-86.8293224,35.9142839],[-86.8293385,35.9143621],[-86.8293456,35.9144774]]}, "properties": {"osm_id": 345630228, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8294906,35.9142744],[-86.8294471,35.9143284],[-86.8293456,35.9144774],[-86.829286,35.9145649],[-86.8292513,35.9146272]]}, "properties": {"osm_id": 1078499010, "osm_type": "ways_line", "amenity": null, "highway": "secondary", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": "South Royal Oaks Boulevard", "parking": null, "surface": "asphalt", "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8305882,35.9148446],[-86.8304663,35.9148512],[-86.830407,35.9148974],[-86.8303654,35.9150359]]}, "properties": {"osm_id": 345799529, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8305692,35.9148906],[-86.8306545,35.914964],[-86.8306571,35.9150436],[-86.8306312,35.9151431]]}, "properties": {"osm_id": 345799528, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8306939,35.9147227],[-86.8305582,35.9147061],[-86.8305472,35.9146809]]}, "properties": {"osm_id": 1203056845, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.83096,35.9147583],[-86.8306939,35.9147227]]}, "properties": {"osm_id": 1203056846, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8314139,35.9145948],[-86.8313283,35.9145962],[-86.8311741,35.9145987],[-86.8309196,35.9145504],[-86.8307235,35.9145268],[-86.8306219,35.9145788],[-86.8305472,35.9146809]]}, "properties": {"osm_id": 345629217, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8302441,35.9148136],[-86.8299685,35.9147251]]}, "properties": {"osm_id": 507294151, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8300802,35.9151602],[-86.8301325,35.915069],[-86.8302441,35.9148136],[-86.8302478,35.9148051],[-86.8302591,35.9147838],[-86.8302733,35.9147568],[-86.8302891,35.9147271],[-86.8303283,35.914653],[-86.8303336,35.9146335],[-86.8303269,35.9146085],[-86.8303108,35.9145878],[-86.8302277,35.9145553],[-86.8298964,35.9144206]]}, "properties": {"osm_id": 345629008, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8302591,35.9147838],[-86.8300174,35.9147159],[-86.8299809,35.914703]]}, "properties": {"osm_id": 507294149, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8302733,35.9147568],[-86.8301052,35.9147115],[-86.8300036,35.9146803],[-86.8299954,35.9146771]]}, "properties": {"osm_id": 345629011, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8302891,35.9147271],[-86.8301245,35.9146872],[-86.8300111,35.9146491]]}, "properties": {"osm_id": 507294145, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8311741,35.9145987],[-86.8311559,35.9147548],[-86.831139,35.9147772],[-86.8310512,35.9147697],[-86.83096,35.9147583]]}, "properties": {"osm_id": 345629218, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8311144,35.9149631],[-86.8310022,35.9149557],[-86.8309415,35.9149538],[-86.8309006,35.9149604],[-86.8308668,35.9149746],[-86.8308493,35.9149954],[-86.8308376,35.915053],[-86.8308096,35.9151826],[-86.8307921,35.9152752],[-86.8307921,35.9152961],[-86.8307956,35.915315],[-86.8308119,35.915331],[-86.8308411,35.9153443],[-86.8308656,35.9153509],[-86.8309287,35.9153594],[-86.8310081,35.915367],[-86.8310201,35.9153652],[-86.8310314,35.9153622],[-86.8310402,35.9153559],[-86.8310466,35.915349]]}, "properties": {"osm_id": 345629216, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8306312,35.9151431],[-86.830605,35.9152435]]}, "properties": {"osm_id": 507294142, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8304663,35.9148512],[-86.8303623,35.9149017],[-86.8302968,35.9149672],[-86.8302621,35.9150571],[-86.8302112,35.9151373],[-86.8302068,35.915176],[-86.8302342,35.9152348],[-86.8303298,35.9152684],[-86.830433,35.9152911]]}, "properties": {"osm_id": 345799530, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.830605,35.9152435],[-86.8305979,35.9152707],[-86.8304442,35.9152561]]}, "properties": {"osm_id": 507294143, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8287548,35.9159567],[-86.8286217,35.9159223],[-86.8284655,35.915882],[-86.8283945,35.9160416]]}, "properties": {"osm_id": 776933443, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8285408,35.9158084],[-86.8285807,35.9158162],[-86.8286424,35.9157928]]}, "properties": {"osm_id": 1131553411, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8284276,35.9157816],[-86.8285408,35.9158084]]}, "properties": {"osm_id": 1131553406, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": "building_passage", "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.828262,35.9157391],[-86.8284276,35.9157816]]}, "properties": {"osm_id": 1131553410, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8282948,35.9156405],[-86.8283628,35.915657]]}, "properties": {"osm_id": 1131553412, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8283371,35.9154259],[-86.8285438,35.9154742],[-86.8286008,35.9155092],[-86.82861,35.9155653],[-86.828598,35.9155969],[-86.828558,35.9157018],[-86.8285347,35.9157665]]}, "properties": {"osm_id": 368062506, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8283305,35.9155332],[-86.8284006,35.9155499]]}, "properties": {"osm_id": 1131553414, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8284006,35.9155499],[-86.8285353,35.9155819]]}, "properties": {"osm_id": 1131553408, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8285353,35.9155819],[-86.828598,35.9155969]]}, "properties": {"osm_id": 1131553415, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8284975,35.9156889],[-86.828558,35.9157018]]}, "properties": {"osm_id": 1131553413, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8283628,35.915657],[-86.8284975,35.9156889]]}, "properties": {"osm_id": 1131553407, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.828274,35.9157029],[-86.8285347,35.9157665],[-86.8286424,35.9157928],[-86.8286652,35.9157986],[-86.828802,35.9158325]]}, "properties": {"osm_id": 1131553409, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8293399,35.9155531],[-86.8292855,35.9156876],[-86.8292676,35.9157318],[-86.8292833,35.9157488],[-86.8293014,35.9157588],[-86.8293057,35.9157653],[-86.8292981,35.9158068]]}, "properties": {"osm_id": 364235426, "osm_type": "ways_line", "amenity": null, "highway": "footway", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8298175,35.9159455],[-86.8299758,35.9159647],[-86.8301749,35.9159844],[-86.8303996,35.9160105],[-86.8309942,35.9160768],[-86.8311949,35.9160992]]}, "properties": {"osm_id": 368062511, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8285446,35.9148204],[-86.8285379,35.9147813],[-86.8286559,35.9144794]]}, "properties": {"osm_id": 345630223, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8298996,35.9146098],[-86.8297599,35.9145586]]}, "properties": {"osm_id": 507294144, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8299954,35.9146771],[-86.8298865,35.914635]]}, "properties": {"osm_id": 507294147, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8300111,35.9146491],[-86.8299589,35.9146316],[-86.8298996,35.9146098]]}, "properties": {"osm_id": 345629012, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8299685,35.9147251],[-86.829955,35.9147208],[-86.829863,35.91468]]}, "properties": {"osm_id": 345629009, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8299809,35.914703],[-86.8299204,35.9146815],[-86.8298729,35.914661]]}, "properties": {"osm_id": 345629010, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.829324,35.9148382],[-86.8293714,35.9147996],[-86.829424,35.9147628],[-86.8295932,35.9144838],[-86.8296259,35.9144536],[-86.8296738,35.9144243],[-86.8297068,35.9144175],[-86.8297427,35.9144101],[-86.8298478,35.9144148]]}, "properties": {"osm_id": 345630236, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.829863,35.91468],[-86.8298441,35.9146716],[-86.8297267,35.9146198]]}, "properties": {"osm_id": 507294150, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8298729,35.914661],[-86.8297363,35.9146021]]}, "properties": {"osm_id": 507294148, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8298865,35.914635],[-86.8297476,35.9145813]]}, "properties": {"osm_id": 507294146, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8294257,35.9157201],[-86.8292855,35.9156876],[-86.8292258,35.9156738],[-86.8291609,35.9156846],[-86.8291042,35.9157197],[-86.8289122,35.9162493]]}, "properties": {"osm_id": 615164286, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8292294,35.9163214],[-86.8294257,35.9157201]]}, "properties": {"osm_id": 615164282, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8303996,35.9160105],[-86.830327,35.9164303],[-86.8301102,35.9164073],[-86.8299137,35.916387],[-86.829708,35.916365]]}, "properties": {"osm_id": 385055301, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8291866,35.9164633],[-86.8287923,35.9163746]]}, "properties": {"osm_id": 963219903, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8290781,35.9155352],[-86.8290578,35.9155669],[-86.8290222,35.9156477],[-86.8289557,35.9158122],[-86.8288619,35.9160516],[-86.8287948,35.9162226],[-86.8287182,35.9164199],[-86.8287194,35.9164469],[-86.8287301,35.9164709],[-86.828755,35.9164872],[-86.8287491,35.9165074]]}, "properties": {"osm_id": 343804788, "osm_type": "ways_line", "amenity": null, "highway": "footway", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8285329,35.9165199],[-86.8284117,35.9164898],[-86.8282333,35.9164455],[-86.8283945,35.9160416],[-86.8285606,35.9160863],[-86.8286921,35.9161217]]}, "properties": {"osm_id": 776933442, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8309942,35.9160768],[-86.830917,35.9165022],[-86.8311042,35.9165208]]}, "properties": {"osm_id": 385055281, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8282618,35.9165696],[-86.828373,35.9165975],[-86.8284894,35.9166286]]}, "properties": {"osm_id": 711332356, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8287491,35.9165074],[-86.8287273,35.9165647],[-86.8287016,35.9166325]]}, "properties": {"osm_id": 343804791, "osm_type": "ways_line", "amenity": null, "highway": "footway", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8291296,35.9166523],[-86.8291866,35.9164633],[-86.8292294,35.9163214],[-86.8289122,35.9162493],[-86.8287948,35.9162226],[-86.828665,35.916193]]}, "properties": {"osm_id": 615164280, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8293557,35.9166883],[-86.8294028,35.9164884],[-86.8294495,35.916462],[-86.8295126,35.9164538],[-86.8296111,35.9164768],[-86.8296846,35.9164876]]}, "properties": {"osm_id": 963219902, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8295292,35.9167148],[-86.8294661,35.9167059],[-86.8293557,35.9166883],[-86.8291296,35.9166523],[-86.8290797,35.9166445],[-86.8289806,35.916623],[-86.8288373,35.9165901],[-86.8287273,35.9165647],[-86.8285329,35.9165199]]}, "properties": {"osm_id": 368062479, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8298175,35.9159455],[-86.829708,35.916365],[-86.8296846,35.9164876],[-86.8296615,35.9167309]]}, "properties": {"osm_id": 368062483, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8304914,35.9167015],[-86.8308706,35.9167366],[-86.8308938,35.916605],[-86.8310861,35.9166019]]}, "properties": {"osm_id": 385055296, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8287016,35.9166325],[-86.8288738,35.9166786],[-86.8289925,35.9167017],[-86.8291125,35.9167152],[-86.829287,35.9167421]]}, "properties": {"osm_id": 343804792, "osm_type": "ways_line", "amenity": null, "highway": "footway", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8299758,35.9159647],[-86.8299137,35.916387],[-86.8298542,35.9167542]]}, "properties": {"osm_id": 385055288, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8309927,35.9168974],[-86.8307823,35.9168752],[-86.8306541,35.9168512],[-86.8304615,35.9168279],[-86.8302748,35.9168052],[-86.8300647,35.9167798],[-86.8298542,35.9167542],[-86.8296615,35.9167309],[-86.8295292,35.9167148]]}, "properties": {"osm_id": 368062478, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8288337,35.916758],[-86.8287194,35.9167509],[-86.8286424,35.9168161],[-86.8286176,35.9168967],[-86.8286009,35.9169969],[-86.8285972,35.9170524]]}, "properties": {"osm_id": 385055305, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8290301,35.91679],[-86.8288337,35.916758],[-86.8287901,35.9170609]]}, "properties": {"osm_id": 385055280, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8292384,35.9168198],[-86.8290301,35.91679],[-86.8289939,35.9170835]]}, "properties": {"osm_id": 385055283, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8292024,35.9171103],[-86.8292384,35.9168198]]}, "properties": {"osm_id": 385055276, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8294152,35.9171342],[-86.8294444,35.9168756],[-86.8294661,35.9167059]]}, "properties": {"osm_id": 385055286, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8295913,35.917153],[-86.8296615,35.9167309]]}, "properties": {"osm_id": 385055265, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8298044,35.9171746],[-86.8298542,35.9167542]]}, "properties": {"osm_id": 385055261, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.83,35.9171944],[-86.8300647,35.9167798],[-86.8300915,35.9165463],[-86.8301102,35.9164073],[-86.8301749,35.9159844]]}, "properties": {"osm_id": 385055304, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8302098,35.9172157],[-86.8302748,35.9168052]]}, "properties": {"osm_id": 385055269, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8287385,35.9156048],[-86.8286894,35.9157296],[-86.8286652,35.9157986],[-86.8286217,35.9159223],[-86.8286103,35.9159549],[-86.8285606,35.9160863],[-86.8285066,35.9162289],[-86.8284117,35.9164898],[-86.828373,35.9165975],[-86.8283498,35.9166597],[-86.8282325,35.9169889],[-86.8281547,35.9171889],[-86.8281343,35.9172121],[-86.8281056,35.9172308]]}, "properties": {"osm_id": 343804786, "osm_type": "ways_line", "amenity": null, "highway": "footway", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8304,35.9172349],[-86.8304615,35.9168279]]}, "properties": {"osm_id": 385055262, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8307315,35.917254],[-86.8307823,35.9168752]]}, "properties": {"osm_id": 385055271, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8287016,35.9166325],[-86.82866,35.9166373],[-86.8286256,35.9166498],[-86.8286114,35.9166709],[-86.8285544,35.9167844],[-86.8284974,35.9169065],[-86.8283917,35.9171816],[-86.828322,35.917365],[-86.8281839,35.9177114],[-86.828134,35.9178345],[-86.8281328,35.9178586],[-86.8281186,35.9178749]]}, "properties": {"osm_id": 343804794, "osm_type": "ways_line", "amenity": null, "highway": "footway", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8292776,35.9151728],[-86.8292278,35.915309],[-86.8291907,35.9154417],[-86.8291687,35.9155131]]}, "properties": {"osm_id": 343804781, "osm_type": "ways_line", "amenity": null, "highway": "footway", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8287775,35.9152698],[-86.828912,35.9153825]]}, "properties": {"osm_id": 1298086408, "osm_type": "ways_line", "amenity": null, "highway": "primary", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": "Murfreesboro Road", "parking": null, "surface": "asphalt", "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8284054,35.915177],[-86.8283266,35.9153844],[-86.8283371,35.9154259],[-86.8283497,35.9154755],[-86.8283305,35.9155332],[-86.8282948,35.9156405],[-86.828274,35.9157029],[-86.828262,35.9157391]]}, "properties": {"osm_id": 368062504, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8303603,35.9155096],[-86.8303223,35.9156425],[-86.8303002,35.9157181]]}, "properties": {"osm_id": 368197276, "osm_type": "ways_line", "amenity": null, "highway": "footway", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8277267,35.9150153],[-86.8278397,35.9150444],[-86.8284054,35.915177],[-86.8287775,35.9152698]]}, "properties": {"osm_id": 1298086409, "osm_type": "ways_line", "amenity": null, "highway": "primary", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": "Murfreesboro Road", "parking": null, "surface": "asphalt", "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "no", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8290541,35.9154163],[-86.8291113,35.9152881],[-86.8291817,35.9151471],[-86.829324,35.9148382],[-86.8294514,35.914606],[-86.8295983,35.9143753],[-86.8297204,35.9142162],[-86.8297458,35.9141864],[-86.829796,35.9141275]]}, "properties": {"osm_id": 1032836338, "osm_type": "ways_line", "amenity": null, "highway": "secondary", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": "South Royal Oaks Boulevard", "parking": null, "surface": "asphalt", "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.829796,35.9141275],[-86.8298461,35.9140686],[-86.830131,35.9137719],[-86.8302773,35.9136172],[-86.8303568,35.9135325]]}, "properties": {"osm_id": 1078493886, "osm_type": "ways_line", "amenity": null, "highway": "secondary", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": "South Royal Oaks Boulevard", "parking": null, "surface": "asphalt", "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.830202,35.9134557],[-86.8301297,35.9135403],[-86.8299921,35.9137035],[-86.8297001,35.9140145],[-86.8295858,35.9141563]]}, "properties": {"osm_id": 1078499012, "osm_type": "ways_line", "amenity": null, "highway": "secondary", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": "South Royal Oaks Boulevard", "parking": null, "surface": "asphalt", "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8314362,35.915723],[-86.8312676,35.9156372],[-86.8311467,35.9156222],[-86.8303603,35.9155096]]}, "properties": {"osm_id": 368062485, "osm_type": "ways_line", "amenity": null, "highway": "primary", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": "Murfreesboro Road", "parking": null, "surface": "asphalt", "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8287415,35.9154196],[-86.8287672,35.9154634],[-86.8287699,35.9155164],[-86.8287385,35.9156048]]}, "properties": {"osm_id": 343804782, "osm_type": "ways_line", "amenity": null, "highway": "footway", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8311746,35.9155201],[-86.8312022,35.9154584],[-86.8312177,35.9153834],[-86.831258,35.9151525],[-86.8312937,35.9149631],[-86.831301,35.9149182],[-86.8313139,35.914839],[-86.8313281,35.9147679],[-86.831334,35.9147006],[-86.8313305,35.9146121],[-86.8313283,35.9145962],[-86.8313174,35.9145188],[-86.8313008,35.914488],[-86.8312949,35.9144226],[-86.8312711,35.914363],[-86.8312343,35.9142736],[-86.8311773,35.9141832],[-86.8310823,35.9140668],[-86.831017,35.9139985],[-86.83096,35.9139601],[-86.8308531,35.9138879],[-86.8306833,35.9137879],[-86.8305266,35.9137033],[-86.830491,35.913684],[-86.8304126,35.913684],[-86.8303972,35.9136879]]}, "properties": {"osm_id": 368197275, "osm_type": "ways_line", "amenity": null, "highway": "footway", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8290781,35.9155352],[-86.8291218,35.9155197],[-86.8291687,35.9155131],[-86.8292705,35.9155374],[-86.8293399,35.9155531],[-86.8293973,35.9155661]]}, "properties": {"osm_id": 343804785, "osm_type": "ways_line", "amenity": null, "highway": "footway", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8303782,35.9136695],[-86.8303972,35.9136879],[-86.8303093,35.9137158],[-86.8302511,35.9137735],[-86.8301335,35.9138947],[-86.8299839,35.9140514],[-86.8299079,35.9141283],[-86.8298296,35.9142514],[-86.8297773,35.9143111]]}, "properties": {"osm_id": 343804765, "osm_type": "ways_line", "amenity": null, "highway": "footway", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8309488,35.9172359],[-86.8309927,35.9168974],[-86.8310417,35.9168544],[-86.8310861,35.9166019],[-86.8311042,35.9165208],[-86.8311363,35.9164612],[-86.8311949,35.9160992],[-86.8312391,35.9158287],[-86.8312509,35.9157306],[-86.8312676,35.9156372]]}, "properties": {"osm_id": 339988922, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8287672,35.9154634],[-86.8289303,35.9155022],[-86.8290781,35.9155352]]}, "properties": {"osm_id": 343804784, "osm_type": "ways_line", "amenity": null, "highway": "footway", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8278397,35.9150444],[-86.8279719,35.9146773],[-86.8281348,35.91471],[-86.8283365,35.9147504],[-86.8284515,35.9144466],[-86.8282586,35.914395],[-86.8281348,35.91471]]}, "properties": {"osm_id": 345799480, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8312676,35.9156372],[-86.8312846,35.9155363],[-86.8313849,35.9149483],[-86.8313878,35.9149272],[-86.8314176,35.9147081],[-86.8314139,35.9145948],[-86.8314106,35.9144963],[-86.8313382,35.9142845],[-86.8312284,35.9141124],[-86.8310837,35.9139517],[-86.8310187,35.9139041],[-86.8309223,35.9138353]]}, "properties": {"osm_id": 19670753, "osm_type": "ways_line", "amenity": null, "highway": "unclassified", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": "Center Point Place", "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "no", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8292513,35.9146272],[-86.8291551,35.9147999],[-86.8290252,35.915102],[-86.8289632,35.9152581]]}, "properties": {"osm_id": 1078499009, "osm_type": "ways_line", "amenity": null, "highway": "secondary", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": "South Royal Oaks Boulevard", "parking": null, "surface": "asphalt", "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8289303,35.9155022],[-86.828802,35.9158325],[-86.8287548,35.9159567],[-86.8286921,35.9161217],[-86.828665,35.916193],[-86.8285956,35.9163757],[-86.8285329,35.9165199],[-86.8284894,35.9166286],[-86.8282105,35.917325],[-86.828033,35.9177923],[-86.8280039,35.9178697],[-86.8279864,35.9179162],[-86.827973,35.9179517],[-86.8279602,35.9179857],[-86.8279062,35.9181293],[-86.8278797,35.9182241],[-86.8277847,35.9185635],[-86.8277648,35.9186345],[-86.827723,35.9188683]]}, "properties": {"osm_id": 247340814, "osm_type": "ways_line", "amenity": null, "highway": "secondary", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": "Royal Oaks Boulevard", "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8277267,35.9150153],[-86.8276105,35.9153098],[-86.8275991,35.9153356],[-86.8275265,35.9155352],[-86.827407,35.9158353],[-86.8272727,35.9161738]]}, "properties": {"osm_id": 368062498, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8313878,35.9149272],[-86.831301,35.9149182],[-86.8311255,35.9149001],[-86.8305882,35.9148446],[-86.8305692,35.9148906],[-86.8305351,35.9149728],[-86.8304442,35.9152561],[-86.830433,35.9152911],[-86.8303956,35.9154077],[-86.8303603,35.9155096]]}, "properties": {"osm_id": 345629214, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8298964,35.9144206],[-86.8298478,35.9144148],[-86.8298209,35.9144574],[-86.8297599,35.9145586],[-86.8297476,35.9145813],[-86.8297363,35.9146021],[-86.8297267,35.9146198],[-86.8297033,35.9146628],[-86.8295571,35.9149137],[-86.8295437,35.9149387],[-86.8295437,35.9149593],[-86.8295625,35.9149713],[-86.8296269,35.9149962],[-86.8300802,35.9151602],[-86.8300214,35.9153387],[-86.8299802,35.9154442]]}, "properties": {"osm_id": 345630231, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8293902,35.9139135],[-86.8292324,35.914104],[-86.8292018,35.9141409],[-86.8291427,35.9142122],[-86.8290904,35.9142947],[-86.8289644,35.9145999],[-86.8288651,35.9149019],[-86.8285446,35.9148204],[-86.8284054,35.915177]]}, "properties": {"osm_id": 345630221, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8294257,35.9157201],[-86.8294758,35.9155798],[-86.8295019,35.9155069]]}, "properties": {"osm_id": 615164284, "osm_type": "ways_line", "amenity": null, "highway": "service", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": null, "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": null, "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8289303,35.9155022],[-86.8290541,35.9154163]]}, "properties": {"osm_id": 1298086407, "osm_type": "ways_line", "amenity": null, "highway": "secondary", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": "Royal Oaks Boulevard", "parking": null, "surface": null, "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.828912,35.9153825],[-86.8290541,35.9154163]]}, "properties": {"osm_id": 1298086403, "osm_type": "ways_line", "amenity": null, "highway": "primary", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": "Murfreesboro Road", "parking": null, "surface": "asphalt", "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"LineString","coordinates":[[-86.8291113,35.9152881],[-86.8289632,35.9152581]]}, "properties": {"osm_id": 1298095426, "osm_type": "ways_line", "amenity": null, "highway": "primary", "railway": null, "operator": null, "tunnel": null, "width": null, "aeroway": null, "bridge": null, "capacity": null, "name": "Murfreesboro Road", "parking": null, "surface": "asphalt", "barrier": null, "public_transport": null, "layer": null, "smoothness": null, "oneway": "yes", "building": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8280211,35.916563],[-86.8277387,35.9164902],[-86.827544,35.9169857],[-86.8278264,35.9170585],[-86.8280211,35.916563]]]}, "properties": {"osm_id": 385198167, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8274613,35.9166442],[-86.8272843,35.9166043],[-86.8272507,35.916702],[-86.8274276,35.916742],[-86.8274613,35.9166442]]]}, "properties": {"osm_id": 963226460, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8270799,35.9168166],[-86.8269771,35.9168005],[-86.8269468,35.9169121],[-86.8270542,35.916931],[-86.8270799,35.9168166]]]}, "properties": {"osm_id": 963226457, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8271266,35.9166568],[-86.8270203,35.916637],[-86.82699,35.9167523],[-86.8270939,35.9167712],[-86.8271266,35.9166568]]]}, "properties": {"osm_id": 963226458, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8271663,35.9164961],[-86.8270623,35.9164762],[-86.827039,35.9165906],[-86.8271394,35.9166077],[-86.8271663,35.9164961]]]}, "properties": {"osm_id": 963226459, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8280135,35.915557],[-86.828,35.9155521],[-86.8280081,35.9155244],[-86.8278458,35.915488],[-86.8278378,35.9155157],[-86.8278217,35.9155119],[-86.8277741,35.9156444],[-86.8277855,35.9156483],[-86.8277747,35.9156808],[-86.8277653,35.9156787],[-86.8277285,35.9157846],[-86.8277197,35.9157818],[-86.8277043,35.9158334],[-86.8276587,35.915822],[-86.8276339,35.9158915],[-86.8276701,35.9159024],[-86.8276674,35.9159084],[-86.8276735,35.91591],[-86.8276574,35.91596],[-86.8276648,35.9159621],[-86.8276177,35.9161042],[-86.8276072,35.9161014],[-86.827557,35.9162337],[-86.8275675,35.9162356],[-86.8275605,35.916264],[-86.8277415,35.9163056],[-86.8277975,35.9161462],[-86.8277841,35.916143],[-86.8277982,35.9161077],[-86.8278123,35.916112],[-86.8278384,35.9160436],[-86.8278197,35.9160371],[-86.8278317,35.916005],[-86.8278505,35.9160083],[-86.8279155,35.9158307],[-86.8279008,35.9158253],[-86.8279149,35.91579],[-86.8279303,35.9157927],[-86.8279544,35.9157254],[-86.8279397,35.9157205],[-86.8279806,35.9156026],[-86.827996,35.9156081],[-86.8280135,35.915557]]]}, "properties": {"osm_id": 963226462, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": "Candlewood Suites", "amenity": null, "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8273075,35.9153657],[-86.827143,35.915327],[-86.8270855,35.9155019],[-86.8272447,35.9155406],[-86.8273075,35.9153657]]]}, "properties": {"osm_id": 963226461, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": "fast_food", "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8269845,35.9152139],[-86.8268732,35.9151866],[-86.8267862,35.915419],[-86.8268975,35.9154463],[-86.8269845,35.9152139]]]}, "properties": {"osm_id": 368062490, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": "1313", "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": "Murfreesboro Road", "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": "fast_food", "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8272819,35.9159066],[-86.8264701,35.9157251],[-86.8264161,35.9158841],[-86.8272309,35.9160677],[-86.8272819,35.9159066]]]}, "properties": {"osm_id": 368062509, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": "Quality Inn", "amenity": null, "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8281627,35.9144189],[-86.8278378,35.9143413],[-86.8277708,35.9145252],[-86.8280957,35.9146028],[-86.8281627,35.9144189]]]}, "properties": {"osm_id": 345799484, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": "1306", "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": "Murfreesboro Road", "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": "restaurant", "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8273552,35.9141592],[-86.8270242,35.9140875],[-86.8269981,35.9141668],[-86.8270413,35.9141762],[-86.8270209,35.914238],[-86.8273086,35.9143003],[-86.8273552,35.9141592]]]}, "properties": {"osm_id": 368062512, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8277917,35.9141459],[-86.8276013,35.9141021],[-86.827523,35.9143252],[-86.8276957,35.914365],[-86.8277334,35.9142575],[-86.8277511,35.9142616],[-86.8277917,35.9141459]]]}, "properties": {"osm_id": 347407395, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": "1308", "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": "Murfreesboro Road", "barrier": null, "parking": null, "oneway": null, "name": "Best Western", "amenity": null, "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8284576,35.9139718],[-86.8280385,35.9138754],[-86.828043,35.9138627],[-86.8279602,35.9138436],[-86.8279551,35.913858],[-86.8275813,35.9137719],[-86.8275871,35.9137552],[-86.8275012,35.9137354],[-86.8274969,35.9137476],[-86.8270673,35.9136486],[-86.8270065,35.9138216],[-86.8274424,35.9139221],[-86.8274373,35.9139367],[-86.8275144,35.9139545],[-86.8275188,35.9139416],[-86.8278952,35.914028],[-86.8278895,35.9140444],[-86.8279714,35.9140632],[-86.8279768,35.9140478],[-86.828397,35.9141445],[-86.8284576,35.9139718]]]}, "properties": {"osm_id": 345799504, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": "1308", "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": "Murfreesboro Road", "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8296539,35.9135151],[-86.8295362,35.9134463],[-86.8294561,35.9135314],[-86.8294437,35.9135238],[-86.8294212,35.9135547],[-86.8294283,35.9135586],[-86.8294212,35.9135671],[-86.8294251,35.9135701],[-86.8293645,35.9136425],[-86.829398,35.9136633],[-86.8293898,35.9136741],[-86.8294375,35.9137015],[-86.8294452,35.9136909],[-86.8294802,35.913711],[-86.8295246,35.9136599],[-86.8295369,35.9136668],[-86.8295724,35.9136275],[-86.8295567,35.9136189],[-86.8296539,35.9135151]]]}, "properties": {"osm_id": 345630218, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": "1020", "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": "Riverside Drive", "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": "fast_food", "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8292499,35.9139572],[-86.8291248,35.9138878],[-86.8291066,35.9139065],[-86.8290542,35.9138756],[-86.8290113,35.9139266],[-86.8291144,35.9139887],[-86.829099,35.9140088],[-86.8291372,35.9140267],[-86.8291454,35.9140169],[-86.829163,35.9140264],[-86.8291776,35.9140113],[-86.8291932,35.9140199],[-86.8292499,35.9139572]]]}, "properties": {"osm_id": 345630238, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": "204", "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": "South Royal Oaks Boulevard", "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": "cafe", "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8303822,35.9151489],[-86.830333,35.9151409],[-86.8303552,35.9150513],[-86.8302893,35.9150406],[-86.8302643,35.9151415],[-86.8302335,35.9151365],[-86.8302263,35.9151655],[-86.8302476,35.915169],[-86.830239,35.9152039],[-86.8303153,35.9152163],[-86.8303226,35.9151866],[-86.830371,35.9151945],[-86.8303822,35.9151489]]]}, "properties": {"osm_id": 345799522, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": "1212", "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "commercial", "addr_street": "Murfreesboro Road", "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8307857,35.9141271],[-86.8305046,35.9139488],[-86.8302329,35.9142298],[-86.830514,35.9144081],[-86.8307857,35.9141271]]]}, "properties": {"osm_id": 345407280, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": "1008", "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": "Center Point Place", "barrier": null, "parking": null, "oneway": null, "name": "Walgreens", "amenity": null, "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.83098,35.9146509],[-86.8307133,35.9146184],[-86.8306939,35.9147227],[-86.8306822,35.9147856],[-86.8309489,35.9148181],[-86.83096,35.9147583],[-86.83098,35.9146509]]]}, "properties": {"osm_id": 345629219, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": "1004", "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": "Center Point Place", "barrier": null, "parking": null, "oneway": null, "name": "Franklin Car Wash & Detail", "amenity": "car_wash", "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8301265,35.9148026],[-86.8299609,35.9147388],[-86.8298538,35.9146975],[-86.8298104,35.9146808],[-86.8296925,35.914889],[-86.8300065,35.9150043],[-86.8301265,35.9148026]]]}, "properties": {"osm_id": 345629013, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": "1014", "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": "Murfreesboro Road", "barrier": null, "parking": null, "oneway": null, "name": "First Tennessee Bank", "amenity": "bank", "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8300252,35.9146239],[-86.8299128,35.9145846],[-86.8298996,35.9146098],[-86.8298865,35.914635],[-86.8298729,35.914661],[-86.829863,35.91468],[-86.8298538,35.9146975],[-86.8299609,35.9147388],[-86.8299685,35.9147251],[-86.8299809,35.914703],[-86.8299954,35.9146771],[-86.8300111,35.9146491],[-86.8300252,35.9146239]]]}, "properties": {"osm_id": 345629014, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "garage", "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8289687,35.9141417],[-86.8287442,35.9140891],[-86.8286476,35.914359],[-86.8288722,35.9144117],[-86.8289687,35.9141417]]]}, "properties": {"osm_id": 345799501, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": "1020", "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": "Riverside Drive", "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8288718,35.914628],[-86.8287725,35.9146049],[-86.8288157,35.9144829],[-86.8287244,35.9144617],[-86.8286825,35.9145802],[-86.8286575,35.9145744],[-86.8286002,35.9147362],[-86.8288158,35.9147863],[-86.8288718,35.914628]]]}, "properties": {"osm_id": 345799477, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": "1304", "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": "Murfreesboro Road", "barrier": null, "parking": null, "oneway": null, "name": "First Citizens National Bank", "amenity": "bank", "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8293113,35.9158108],[-86.8292981,35.9158068],[-86.8292795,35.9158011],[-86.8292824,35.9157913],[-86.8291913,35.9157723],[-86.8291895,35.91578],[-86.8291725,35.9157756],[-86.8291589,35.9158159],[-86.829145,35.9158154],[-86.8291384,35.9158349],[-86.8291493,35.9158458],[-86.8290906,35.9160186],[-86.8292229,35.916048],[-86.8292497,35.9159722],[-86.8292727,35.9159772],[-86.8293106,35.9158658],[-86.8292942,35.91586],[-86.8293113,35.9158108]]]}, "properties": {"osm_id": 367890251, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": "1299", "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "retail", "addr_street": "Murfreesboro Road;Murfreesboro Rd", "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": "fast_food", "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8285619,35.9155067],[-86.8284269,35.9154754],[-86.8284006,35.9155499],[-86.8283628,35.915657],[-86.8283453,35.9157064],[-86.8284803,35.9157377],[-86.8284975,35.9156889],[-86.8285353,35.9155819],[-86.8285619,35.9155067]]]}, "properties": {"osm_id": 368062491, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": "fuel", "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8282601,35.9154656],[-86.828144,35.9154356],[-86.8280778,35.9156036],[-86.8281939,35.9156336],[-86.8282601,35.9154656]]]}, "properties": {"osm_id": 368062507, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8283415,35.9158427],[-86.8281336,35.9157981],[-86.8281035,35.915888],[-86.8283147,35.9159305],[-86.8283415,35.9158427]]]}, "properties": {"osm_id": 368062508, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8285504,35.9157843],[-86.8284364,35.9157561],[-86.8284276,35.9157816],[-86.828419,35.9158104],[-86.8285309,35.9158386],[-86.8285408,35.9158084],[-86.8285504,35.9157843]]]}, "properties": {"osm_id": 963226463, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": "car_wash", "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8283048,35.9159763],[-86.8280774,35.9159242],[-86.8280494,35.9160044],[-86.8280768,35.9160107],[-86.8279529,35.9163652],[-86.8281528,35.9164111],[-86.8283048,35.9159763]]]}, "properties": {"osm_id": 368062493, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8297528,35.9159461],[-86.829531,35.9159073],[-86.8293909,35.9164084],[-86.8296186,35.9164472],[-86.8297528,35.9159461]]]}, "properties": {"osm_id": 963219898, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "retail", "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8309168,35.9162778],[-86.8308722,35.9162721],[-86.8308768,35.9162322],[-86.8308536,35.9162305],[-86.8308601,35.9161988],[-86.8307454,35.9161893],[-86.8307493,35.9161613],[-86.8306284,35.9161486],[-86.8306253,35.9161768],[-86.8305055,35.9161648],[-86.8304997,35.9162284],[-86.8305157,35.9162424],[-86.8305079,35.9162422],[-86.8304915,35.9163478],[-86.8307052,35.9163712],[-86.8306954,35.9164328],[-86.8307176,35.9164356],[-86.8307033,35.9165272],[-86.8307195,35.9165299],[-86.8307044,35.9166326],[-86.830752,35.9166369],[-86.8307695,35.9165342],[-86.8307866,35.9165359],[-86.8307987,35.9164438],[-86.8308233,35.9164476],[-86.8308369,35.9163829],[-86.8308694,35.916373],[-86.8309033,35.9163763],[-86.8309168,35.9162778]]]}, "properties": {"osm_id": 368062510, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8305486,35.9164546],[-86.830327,35.9164303],[-86.8302917,35.9166777],[-86.8304914,35.9167015],[-86.8305486,35.9164546]]]}, "properties": {"osm_id": 385055299, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": null, "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": null, "addr_street": null, "barrier": null, "parking": null, "oneway": null, "name": null, "amenity": null, "highway": "service", "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8307143,35.9151555],[-86.8306312,35.9151431],[-86.8305625,35.9151328],[-86.8305396,35.9152338],[-86.830605,35.9152435],[-86.8306914,35.9152564],[-86.8307143,35.9151555]]]}, "properties": {"osm_id": 345799527, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": "1210", "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": "Murfreesboro Road", "barrier": null, "parking": null, "oneway": null, "name": "Valvoline", "amenity": null, "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}},{"type": "Feature", "geometry": {"type":"Polygon","coordinates":[[[-86.8309846,35.9150631],[-86.8308722,35.9150452],[-86.8308669,35.9150774],[-86.8308749,35.9150789],[-86.8308669,35.9151111],[-86.8308527,35.9151104],[-86.8308421,35.9151778],[-86.8308501,35.9151792],[-86.8308271,35.9152853],[-86.8309368,35.9153003],[-86.8309846,35.9150631]]]}, "properties": {"osm_id": 345629213, "osm_type": "ways_poly", "operator": null, "width": null, "addr_housenumber": "1208", "capacity": null, "access_roof": null, "smoothness": null, "railway": null, "roof_material": null, "surface": null, "public_transport": null, "layer": null, "building": "yes", "addr_street": "Murfreesboro Road", "barrier": null, "parking": null, "oneway": null, "name": "Taco Bell", "amenity": "fast_food", "highway": null, "tunnel": null, "aeroway": null, "bridge": null, "building_material": null}}]}
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-07-03T02:06:30Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/29266625",
+        "access": "private",
+        "highway": "unclassified",
+        "lanes": "2",
+        "name": "Via di Malafede"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4000175,
+            41.7446772
+          ],
+          [
+            12.3995848,
+            41.7456387
+          ],
+          [
+            12.398705,
+            41.7476222
+          ],
+          [
+            12.3976429,
+            41.7491991
+          ],
+          [
+            12.3968683,
+            41.7502797
+          ],
+          [
+            12.3960958,
+            41.7513619
+          ],
+          [
+            12.3956698,
+            41.7524312
+          ],
+          [
+            12.3957492,
+            41.7532148
+          ],
+          [
+            12.395938,
+            41.7545298
+          ],
+          [
+            12.3958469,
+            41.7560105
+          ],
+          [
+            12.3958469,
+            41.7568109
+          ],
+          [
+            12.3958954,
+            41.7572051
+          ],
+          [
+            12.3959241,
+            41.7574383
+          ],
+          [
+            12.3961044,
+            41.7580274
+          ],
+          [
+            12.3964048,
+            41.7587253
+          ],
+          [
+            12.3969884,
+            41.760089
+          ],
+          [
+            12.3977609,
+            41.7612543
+          ],
+          [
+            12.398542,
+            41.7620865
+          ],
+          [
+            12.3988301,
+            41.7627098
+          ],
+          [
+            12.3991307,
+            41.7633601
+          ],
+          [
+            12.3992286,
+            41.7635719
+          ],
+          [
+            12.3995178,
+            41.7642005
+          ],
+          [
+            12.3998294,
+            41.7648779
+          ],
+          [
+            12.4003344,
+            41.7660476
+          ],
+          [
+            12.400559,
+            41.766568
+          ],
+          [
+            12.4006519,
+            41.7677416
+          ],
+          [
+            12.4006877,
+            41.768194
+          ],
+          [
+            12.4005075,
+            41.7690326
+          ],
+          [
+            12.4003015,
+            41.7697496
+          ],
+          [
+            12.400044,
+            41.7705242
+          ],
+          [
+            12.3992286,
+            41.7721693
+          ],
+          [
+            12.3986364,
+            41.7731935
+          ],
+          [
+            12.3978038,
+            41.7745377
+          ],
+          [
+            12.397256,
+            41.7751935
+          ]
+        ]
+      },
+      "id": "way/29266625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/36400187",
+        "access": "private",
+        "bicycle": "no",
+        "highway": "unclassified",
+        "lanes": "2",
+        "name": "Viale di Castel Porziano"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3854198,
+            41.7408226
+          ],
+          [
+            12.3855149,
+            41.7408429
+          ],
+          [
+            12.3900934,
+            41.7419572
+          ],
+          [
+            12.3917442,
+            41.742371
+          ],
+          [
+            12.3948684,
+            41.7431971
+          ],
+          [
+            12.3983188,
+            41.7440553
+          ],
+          [
+            12.3996396,
+            41.7443991
+          ]
+        ]
+      },
+      "id": "way/36400187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/36400597",
+        "access": "private",
+        "highway": "unclassified",
+        "lanes": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3996396,
+            41.7443991
+          ],
+          [
+            12.3991906,
+            41.7439322
+          ],
+          [
+            12.3991594,
+            41.7438931
+          ],
+          [
+            12.3988909,
+            41.7435561
+          ],
+          [
+            12.3986027,
+            41.7430519
+          ],
+          [
+            12.3984496,
+            41.7425374
+          ],
+          [
+            12.3983806,
+            41.741839
+          ],
+          [
+            12.3983862,
+            41.7399797
+          ],
+          [
+            12.3984169,
+            41.735965
+          ],
+          [
+            12.3984131,
+            41.733922
+          ]
+        ]
+      },
+      "id": "way/36400597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/36400599",
+        "access": "private",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3984496,
+            41.7425374
+          ],
+          [
+            12.3985755,
+            41.7425221
+          ],
+          [
+            12.3988057,
+            41.742494
+          ],
+          [
+            12.3989771,
+            41.7424909
+          ],
+          [
+            12.3990451,
+            41.7425052
+          ],
+          [
+            12.3993519,
+            41.74257
+          ],
+          [
+            12.3994582,
+            41.7426709
+          ],
+          [
+            12.3995983,
+            41.7427453
+          ],
+          [
+            12.4008771,
+            41.7430628
+          ],
+          [
+            12.4009407,
+            41.743073
+          ],
+          [
+            12.4010057,
+            41.7430693
+          ],
+          [
+            12.4010665,
+            41.7430518
+          ],
+          [
+            12.401118,
+            41.743022
+          ],
+          [
+            12.4011559,
+            41.7429825
+          ],
+          [
+            12.401265,
+            41.7427665
+          ],
+          [
+            12.4012769,
+            41.742739
+          ],
+          [
+            12.4012989,
+            41.7427152
+          ],
+          [
+            12.4013292,
+            41.742697
+          ],
+          [
+            12.4013651,
+            41.7426862
+          ],
+          [
+            12.4014038,
+            41.7426835
+          ],
+          [
+            12.4014418,
+            41.7426892
+          ],
+          [
+            12.4019037,
+            41.7428704
+          ],
+          [
+            12.4019514,
+            41.7428874
+          ],
+          [
+            12.4019827,
+            41.7429016
+          ],
+          [
+            12.4020101,
+            41.7429198
+          ],
+          [
+            12.4020367,
+            41.742943
+          ],
+          [
+            12.4020587,
+            41.7429704
+          ],
+          [
+            12.4020773,
+            41.7429987
+          ],
+          [
+            12.4020857,
+            41.74303
+          ],
+          [
+            12.4020873,
+            41.7430614
+          ]
+        ]
+      },
+      "id": "way/36400599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/55212608",
+        "access": "private",
+        "bicycle": "no",
+        "highway": "track"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4029827,
+            41.74436
+          ],
+          [
+            12.403005,
+            41.7444033
+          ],
+          [
+            12.403045,
+            41.7444387
+          ],
+          [
+            12.4030984,
+            41.7444624
+          ],
+          [
+            12.4031592,
+            41.7444718
+          ],
+          [
+            12.4032235,
+            41.7444728
+          ],
+          [
+            12.4039799,
+            41.7444288
+          ],
+          [
+            12.4044224,
+            41.7444778
+          ],
+          [
+            12.4104359,
+            41.7455465
+          ],
+          [
+            12.4108919,
+            41.7458026
+          ],
+          [
+            12.4142071,
+            41.7473475
+          ],
+          [
+            12.4157199,
+            41.7479999
+          ],
+          [
+            12.4175502,
+            41.7484934
+          ],
+          [
+            12.4201782,
+            41.7495935
+          ],
+          [
+            12.4210816,
+            41.7500506
+          ],
+          [
+            12.4213206,
+            41.7501323
+          ],
+          [
+            12.4214883,
+            41.7502207
+          ],
+          [
+            12.4216545,
+            41.7503562
+          ],
+          [
+            12.4217893,
+            41.7504713
+          ],
+          [
+            12.4221423,
+            41.7507481
+          ],
+          [
+            12.4223712,
+            41.7508881
+          ],
+          [
+            12.42256,
+            41.7510372
+          ],
+          [
+            12.4231218,
+            41.7517668
+          ],
+          [
+            12.4232397,
+            41.7519304
+          ],
+          [
+            12.4233317,
+            41.7520581
+          ],
+          [
+            12.4237243,
+            41.7525468
+          ],
+          [
+            12.4236779,
+            41.752814
+          ]
+        ]
+      },
+      "id": "way/55212608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/55212609",
+        "access": "private",
+        "highway": "unclassified"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4024696,
+            41.7446455
+          ],
+          [
+            12.4038175,
+            41.7445548
+          ],
+          [
+            12.4046263,
+            41.7446379
+          ],
+          [
+            12.4101708,
+            41.7456587
+          ],
+          [
+            12.4107984,
+            41.7459029
+          ],
+          [
+            12.4151007,
+            41.747816
+          ],
+          [
+            12.4161092,
+            41.7482243
+          ],
+          [
+            12.4174732,
+            41.7485714
+          ],
+          [
+            12.4180726,
+            41.7488086
+          ],
+          [
+            12.4198428,
+            41.7496651
+          ],
+          [
+            12.4206421,
+            41.7500733
+          ],
+          [
+            12.4211518,
+            41.7504575
+          ],
+          [
+            12.4232492,
+            41.7522664
+          ],
+          [
+            12.4236779,
+            41.752814
+          ],
+          [
+            12.4240646,
+            41.7535751
+          ],
+          [
+            12.4241719,
+            41.7542234
+          ],
+          [
+            12.4245099,
+            41.7561002
+          ],
+          [
+            12.4245345,
+            41.7584416
+          ],
+          [
+            12.4245633,
+            41.7585931
+          ],
+          [
+            12.4246657,
+            41.7587656
+          ],
+          [
+            12.4248452,
+            41.7588892
+          ],
+          [
+            12.4251701,
+            41.7589724
+          ],
+          [
+            12.4254177,
+            41.7589761
+          ],
+          [
+            12.4256579,
+            41.7589655
+          ],
+          [
+            12.4273347,
+            41.7588325
+          ],
+          [
+            12.4276929,
+            41.7588284
+          ],
+          [
+            12.4279986,
+            41.7588454
+          ],
+          [
+            12.4282812,
+            41.7588953
+          ],
+          [
+            12.4286118,
+            41.7589934
+          ],
+          [
+            12.4287998,
+            41.759079
+          ],
+          [
+            12.4289759,
+            41.7591743
+          ],
+          [
+            12.4291552,
+            41.7593118
+          ],
+          [
+            12.4292985,
+            41.7594398
+          ],
+          [
+            12.4294284,
+            41.7595872
+          ],
+          [
+            12.4295335,
+            41.7597318
+          ],
+          [
+            12.4313607,
+            41.7629195
+          ],
+          [
+            12.4315568,
+            41.7633248
+          ],
+          [
+            12.4315962,
+            41.7634765
+          ],
+          [
+            12.431608,
+            41.7636091
+          ],
+          [
+            12.4315797,
+            41.7667491
+          ],
+          [
+            12.4315839,
+            41.7670527
+          ],
+          [
+            12.4316262,
+            41.7672944
+          ],
+          [
+            12.4316643,
+            41.7674354
+          ],
+          [
+            12.4317872,
+            41.7676028
+          ],
+          [
+            12.4319088,
+            41.767682
+          ],
+          [
+            12.4320491,
+            41.7677187
+          ],
+          [
+            12.4322248,
+            41.7677103
+          ],
+          [
+            12.432404,
+            41.7676677
+          ],
+          [
+            12.4327464,
+            41.7675341
+          ],
+          [
+            12.4333254,
+            41.7673664
+          ],
+          [
+            12.4335033,
+            41.7673367
+          ],
+          [
+            12.4335221,
+            41.7673336
+          ],
+          [
+            12.4337259,
+            41.7673203
+          ],
+          [
+            12.4339724,
+            41.7673379
+          ],
+          [
+            12.4342624,
+            41.7673843
+          ],
+          [
+            12.4363703,
+            41.7677815
+          ],
+          [
+            12.4364143,
+            41.7677897
+          ],
+          [
+            12.4365952,
+            41.7678232
+          ]
+        ]
+      },
+      "id": "way/55212609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439023753",
+        "access": "private",
+        "bicycle": "no",
+        "highway": "unclassified"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4002575,
+            41.7441204
+          ],
+          [
+            12.4000175,
+            41.7446772
+          ]
+        ]
+      },
+      "id": "way/439023753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439023754",
+        "highway": "service",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.400329,
+            41.7439574
+          ],
+          [
+            12.3999007,
+            41.7438519
+          ],
+          [
+            12.3996501,
+            41.7437807
+          ],
+          [
+            12.3997748,
+            41.7435216
+          ],
+          [
+            12.4004419,
+            41.7437003
+          ],
+          [
+            12.400329,
+            41.7439574
+          ]
+        ]
+      },
+      "id": "way/439023754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439288690",
+        "access": "private",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4022146,
+            41.7434524
+          ],
+          [
+            12.4022675,
+            41.7434609
+          ],
+          [
+            12.4031022,
+            41.7435313
+          ],
+          [
+            12.4030111,
+            41.744243
+          ],
+          [
+            12.4029827,
+            41.74436
+          ],
+          [
+            12.4029371,
+            41.7444316
+          ],
+          [
+            12.4028636,
+            41.7445103
+          ],
+          [
+            12.4026338,
+            41.7446149
+          ],
+          [
+            12.4024696,
+            41.7446455
+          ]
+        ]
+      },
+      "id": "way/439288690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439288693",
+        "access": "private",
+        "highway": "track",
+        "surface": "compacted",
+        "tracktype": "grade1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4026244,
+            41.7420192
+          ],
+          [
+            12.4026996,
+            41.7422128
+          ],
+          [
+            12.4026504,
+            41.7426117
+          ],
+          [
+            12.4026249,
+            41.7426958
+          ],
+          [
+            12.4025843,
+            41.7428301
+          ],
+          [
+            12.4025742,
+            41.7428625
+          ],
+          [
+            12.4025513,
+            41.7428912
+          ],
+          [
+            12.4025177,
+            41.7429132
+          ],
+          [
+            12.4024768,
+            41.7429265
+          ],
+          [
+            12.4021768,
+            41.7429987
+          ],
+          [
+            12.4020873,
+            41.7430614
+          ]
+        ]
+      },
+      "id": "way/439288693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439288695",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4003028,
+            41.7440173
+          ],
+          [
+            12.400329,
+            41.7439574
+          ]
+        ]
+      },
+      "id": "way/439288695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439288696",
+        "highway": "service",
+        "tunnel": "building_passage"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4003028,
+            41.7440173
+          ],
+          [
+            12.4002575,
+            41.7441204
+          ]
+        ]
+      },
+      "id": "way/439288696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439294518",
+        "access": "private",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4011807,
+            41.7444214
+          ],
+          [
+            12.401962,
+            41.7435957
+          ],
+          [
+            12.4021382,
+            41.7434217
+          ]
+        ]
+      },
+      "id": "way/439294518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439294520",
+        "access": "private",
+        "highway": "unclassified"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4011807,
+            41.7444214
+          ],
+          [
+            12.4006405,
+            41.7446755
+          ],
+          [
+            12.4005057,
+            41.7447265
+          ],
+          [
+            12.4003557,
+            41.7447405
+          ]
+        ]
+      },
+      "id": "way/439294520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439294521",
+        "access": "private",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.401962,
+            41.7435957
+          ],
+          [
+            12.4019124,
+            41.7435863
+          ],
+          [
+            12.4018613,
+            41.743588
+          ],
+          [
+            12.4018131,
+            41.7436007
+          ],
+          [
+            12.4013102,
+            41.7438359
+          ],
+          [
+            12.4012469,
+            41.7438547
+          ],
+          [
+            12.4011792,
+            41.7438608
+          ],
+          [
+            12.4011117,
+            41.7438539
+          ]
+        ]
+      },
+      "id": "way/439294521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439302100",
+        "access": "private",
+        "bicycle": "no",
+        "highway": "unclassified"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4003557,
+            41.7447405
+          ],
+          [
+            12.4021237,
+            41.7451779
+          ],
+          [
+            12.4021998,
+            41.7451966
+          ],
+          [
+            12.4022652,
+            41.7452311
+          ],
+          [
+            12.4023144,
+            41.7452783
+          ],
+          [
+            12.4023429,
+            41.7453342
+          ],
+          [
+            12.4023483,
+            41.7453938
+          ],
+          [
+            12.4023302,
+            41.7454521
+          ],
+          [
+            12.402188,
+            41.7458963
+          ],
+          [
+            12.4021879,
+            41.7459941
+          ],
+          [
+            12.4022299,
+            41.7460867
+          ],
+          [
+            12.4023097,
+            41.7461643
+          ],
+          [
+            12.4024187,
+            41.7462185
+          ],
+          [
+            12.4031161,
+            41.7464907
+          ]
+        ]
+      },
+      "id": "way/439302100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439302102",
+        "access": "private",
+        "bicycle": "no",
+        "highway": "track"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4031592,
+            41.7444718
+          ],
+          [
+            12.4028636,
+            41.7445103
+          ]
+        ]
+      },
+      "id": "way/439302102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439302104",
+        "access": "private",
+        "bicycle": "no",
+        "highway": "unclassified"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4021998,
+            41.7451966
+          ],
+          [
+            12.4024696,
+            41.7446455
+          ]
+        ]
+      },
+      "id": "way/439302104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439302106",
+        "access": "private",
+        "highway": "track",
+        "surface": "compacted",
+        "tracktype": "grade1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4026249,
+            41.7426958
+          ],
+          [
+            12.402644,
+            41.7426993
+          ],
+          [
+            12.402758,
+            41.7427213
+          ],
+          [
+            12.4028975,
+            41.7427313
+          ],
+          [
+            12.403214,
+            41.7427404
+          ]
+        ]
+      },
+      "id": "way/439302106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439302108",
+        "access": "private",
+        "highway": "track",
+        "surface": "compacted",
+        "tracktype": "grade1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.403214,
+            41.7427404
+          ],
+          [
+            12.4032415,
+            41.7427945
+          ],
+          [
+            12.4032507,
+            41.742852
+          ],
+          [
+            12.4032408,
+            41.7429095
+          ],
+          [
+            12.4031962,
+            41.7429971
+          ],
+          [
+            12.403124,
+            41.7430744
+          ],
+          [
+            12.4030614,
+            41.7434199
+          ],
+          [
+            12.4031168,
+            41.7434255
+          ]
+        ]
+      },
+      "id": "way/439302108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439457053",
+        "access": "private",
+        "highway": "track",
+        "surface": "compacted",
+        "tracktype": "grade1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4019037,
+            41.7428704
+          ],
+          [
+            12.401946,
+            41.7428699
+          ],
+          [
+            12.4019856,
+            41.7428587
+          ],
+          [
+            12.4020179,
+            41.7428383
+          ],
+          [
+            12.4020389,
+            41.7428109
+          ],
+          [
+            12.4020463,
+            41.7427798
+          ],
+          [
+            12.4020391,
+            41.7427486
+          ],
+          [
+            12.4020183,
+            41.7427212
+          ],
+          [
+            12.4019593,
+            41.7426441
+          ],
+          [
+            12.4019043,
+            41.742548
+          ],
+          [
+            12.4019097,
+            41.7423819
+          ],
+          [
+            12.4019697,
+            41.7421636
+          ],
+          [
+            12.4020453,
+            41.7420961
+          ],
+          [
+            12.4021435,
+            41.7420474
+          ],
+          [
+            12.4022563,
+            41.7420216
+          ],
+          [
+            12.4026244,
+            41.7420192
+          ]
+        ]
+      },
+      "id": "way/439457053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439457055",
+        "access": "private",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4020873,
+            41.7430614
+          ],
+          [
+            12.4020558,
+            41.7430988
+          ],
+          [
+            12.4020318,
+            41.7431431
+          ],
+          [
+            12.4020189,
+            41.7431896
+          ],
+          [
+            12.4020167,
+            41.743234
+          ],
+          [
+            12.4020242,
+            41.7432732
+          ],
+          [
+            12.402044,
+            41.7433233
+          ],
+          [
+            12.4020697,
+            41.7433595
+          ],
+          [
+            12.4021104,
+            41.7434003
+          ],
+          [
+            12.4021382,
+            41.7434217
+          ],
+          [
+            12.4021731,
+            41.7434388
+          ],
+          [
+            12.4022146,
+            41.7434524
+          ]
+        ]
+      },
+      "id": "way/439457055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439457281",
+        "access": "private",
+        "highway": "unclassified"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4024696,
+            41.7446455
+          ],
+          [
+            12.4023728,
+            41.7446636
+          ],
+          [
+            12.4021042,
+            41.744652
+          ],
+          [
+            12.4011807,
+            41.7444214
+          ]
+        ]
+      },
+      "id": "way/439457281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439457282",
+        "access": "private",
+        "bicycle": "no",
+        "highway": "unclassified",
+        "lanes": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4003557,
+            41.7447405
+          ],
+          [
+            12.4001424,
+            41.7447251
+          ],
+          [
+            12.4000175,
+            41.7446772
+          ],
+          [
+            12.3997932,
+            41.7445475
+          ],
+          [
+            12.3996396,
+            41.7443991
+          ]
+        ]
+      },
+      "id": "way/439457282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1020781330",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3995983,
+            41.7427453
+          ],
+          [
+            12.3995802,
+            41.7427902
+          ],
+          [
+            12.3994923,
+            41.74298
+          ],
+          [
+            12.3993293,
+            41.7431877
+          ],
+          [
+            12.3993427,
+            41.7433308
+          ],
+          [
+            12.3992311,
+            41.7437996
+          ],
+          [
+            12.3991594,
+            41.7438931
+          ]
+        ]
+      },
+      "id": "way/1020781330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1173692606",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3989637,
+            41.7426197
+          ],
+          [
+            12.399009,
+            41.742586
+          ],
+          [
+            12.3990281,
+            41.7425409
+          ],
+          [
+            12.3990451,
+            41.7425052
+          ]
+        ]
+      },
+      "id": "way/1173692606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1173692607",
+        "colour": "grey",
+        "handrail": "yes",
+        "highway": "steps",
+        "material": "metal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3989145,
+            41.7426565
+          ],
+          [
+            12.3989637,
+            41.7426197
+          ]
+        ]
+      },
+      "id": "way/1173692607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1173692608",
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3988491,
+            41.742654
+          ],
+          [
+            12.3989034,
+            41.7426653
+          ],
+          [
+            12.3989145,
+            41.7426565
+          ]
+        ]
+      },
+      "id": "way/1173692608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1173692609",
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3989956,
+            41.7426845
+          ],
+          [
+            12.3989034,
+            41.7426653
+          ]
+        ]
+      },
+      "id": "way/1173692609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/424299567",
+        "FIXME": "gate not part of the fence?",
+        "access": "private",
+        "barrier": "gate",
+        "name": "Ingresso Malafede / Colombo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.397256,
+          41.7751935
+        ]
+      },
+      "id": "node/424299567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/424493047",
+        "junction": "roundabout"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4011807,
+          41.7444214
+        ]
+      },
+      "id": "node/424493047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1741102238",
+        "access": "permissive",
+        "barrier": "lift_gate",
+        "name": "Ingresso Malpasso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4363703,
+          41.7677815
+        ]
+      },
+      "id": "node/1741102238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9982290595",
+        "ford": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4335033,
+          41.7673367
+        ]
+      },
+      "id": "node/9982290595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10905240694",
+        "highway": "stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3985755,
+          41.7425221
+        ]
+      },
+      "id": "node/10905240694"
+    }
+  ]
+}
